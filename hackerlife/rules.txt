@@ -1,0 +1,4 @@
+When a dialog is shown, press the spacebar to go to the next phrase.
+Press the arrow keys to move the character when there's no dialog.
+To interact with objects, press the spacebar.
+When you're asked to answer a question, write your answer and press the enter key to submit it.
